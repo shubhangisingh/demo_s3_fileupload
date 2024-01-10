@@ -30,6 +30,6 @@ https://rails.devcamp.com/trails/ruby-gem-walkthroughs/campsites/image-media-gem
 https://medium.com/simform-engineering/dockerize-your-rails-7-app-3223cc851129
 
 
-docker-compose run rails rails db:create
-docker-compose run rails rails db:migrate
+docker-compose run rails rails db:create\
+docker-compose run rails rails db:migrate\
 docker-compose up
