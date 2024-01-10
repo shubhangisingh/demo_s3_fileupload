@@ -2,15 +2,15 @@
 Simple Rails Application to upload iamge to AWS s3
 
 Gems used:
-carrierwave
-figaro
-fog
+* carrierwave
+* figaro
+* fog
 
 
 
 AWS services covered:
-IAM
-S3
+* IAM
+* S3
 
 Want to run the app in you system?
  Step1: create config/application.yml
